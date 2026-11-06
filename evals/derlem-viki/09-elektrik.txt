@@ -1,0 +1,13 @@
+Elektrik, elektrik yüküne sahip maddenin varlığı ve hareketiyle ilişkili fiziksel olaylar bütünüdür. Elektrik, manyetizma ile yakından ilişkilidir; her ikisi de Maxwell denklemleri ile açıklanan elektromanyetizma olgusunun bir parçasıdır. Yıldırım, statik elektrik, elektrikli ısıtma, elektrik boşalmaları ve daha birçok olay elektrikle ilişkilidir.
+Elektrikte, elektrik yükleri diğerleri ile de etkileşime giren Elektromanyetik alanlar yaratır. Elektrik, pek çok fiziksel durumdan dolayı var olabilir:
+
+Elektrik yükü: Atom altı parçacık, çeşitli elektromanyetik etkileşimlerinden kaynaklanarak ortaya çıkar. Elektriksel olarak yüklenmiş bir madde, elektromanyetik alandan etkilenir.
+Elektrik alan (Elektrostatik): elektrik yükleri tarafından (hareket etmeseler bile) oluşturulan elektromanyetik alanın özel bir şeklidir
+Elektrik potansiyeli: Bir elektrik alanın, elektrik yükü üzerinde yapabildiği iş kapasitesi olarak tanımlanır ve genelde volt olarak ölçülür.
+Elektrik akımı: Elektrikle yüklenmiş parçacıkların hareketi ya da akışı denebilir, genelde amper olarak ölçülür.
+Alternatif akım: Hareket eden parçacıklar manyetik alan oluşturur. Elektrik akımı da manyetik alan yaratabilir ve değişken manyetik alanlar da elektrik akımları oluşturabilir.
+Elektrik mühendisliğinde, elektrik şunlar için kullanılır;
+
+Elektrik gücü: ekipmanlara enerji vermek için kullanılır
+Elektronik: Elektrik devreleri ve aktif elektrikle uğraşır
+Elektrik olayı, antik çağlardan beri araştırılmaktadır, teorik anlaşılması ise yaklaşık on yedinci ve on sekizinci yüzyıla kadar uzamıştır. Hatta bundan sonra bile, pratik uygulamalar çok az miktarda kalmıştır ve elektriğin endüstride ve yaygın kullanımı için uygun hale gelmesi ancak on dokuzuncu yüzyılda olmuştur. Elektriğin akıl almaz bir yaygınlığı vardır yani diğer bir deyişle ulaşım, ısıtma, aydınlatma, iletişim ve teknolojik aletlerde elektrik yaygın olarak kullanılmaktadır. Elektriksel güç ise, şu anda endüstrinin kırılmaz kemiklerinden bir tanesidir.

@@ -1,0 +1,11 @@
+1
+00:00:01,000 --> 00:00:03,500
+Gerçekten gitmek zorunda mısın?
+
+2
+00:00:04,000 --> 00:00:06,200
+Başka çarem yok. Yarın sabah erkenden yola çıkıyorum.
+
+3
+00:00:07,000 --> 00:00:09,800
+Peki, dikkatli ol. Ulaşınca bana haber ver.

@@ -1,0 +1,7 @@
+{
+  "session_id": "ornek",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "Write",
+  "tool_input": {"file_path": "NOTLAR.md", "content": "..."},
+  "tool_response": {"filePath": "NOTLAR.md", "type": "create"}
+}

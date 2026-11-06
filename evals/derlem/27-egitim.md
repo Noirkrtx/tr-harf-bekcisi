@@ -1,0 +1,1 @@
+Değişkenler, programın çalışması sırasında değer saklayan isimli alanlardır. Bir değişkene değer atadığınızda eski değer silinir. Değişken adlarını anlaşılır seçmek, kodu okuyan başka birinin işini çok kolaylaştırır. Örneğin `x` yerine `ogrenci_sayisi` yazmak daha açıklayıcıdır.

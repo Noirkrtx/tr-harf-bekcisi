@@ -1,0 +1,1 @@
+I started baking bread during a long winter. The first loaves were dense and sour, but each attempt taught me something about patience. Now I bake on Sundays, and the smell of the oven fills the whole flat. My neighbours say it is the best alarm clock in the building.

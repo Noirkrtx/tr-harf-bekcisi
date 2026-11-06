@@ -1,0 +1,1 @@
+The cache layer keeps hot records in memory. When a record changes, the key is removed at once, so stale data is never shown. Our measurements show the mean response time dropped by forty percent. Memory use went up, so the limit is configurable. See `cache/limits.py` for details, or open an issue on GitHub.

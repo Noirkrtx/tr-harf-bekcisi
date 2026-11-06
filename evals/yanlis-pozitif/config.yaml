@@ -1,0 +1,10 @@
+# Deployment settings
+service:
+  name: order-api
+  replicas: 3
+  env:
+    LOG_LEVEL: info
+    DB_HOST: db.internal
+kullanici_ayarlari:
+  varsayilan_dil: tr
+  sayfa_boyutu: 20

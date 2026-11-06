@@ -1,0 +1,6 @@
+name: tr-harf-bekcisi
+version: 0.1.0
+description: write_file ve patch sonrası bozulan Türkçe harfleri bulur, sonucu ajana bildirir
+author: NOIR (@noirkrtx)
+provides_hooks:
+  - transform_tool_result

@@ -1,0 +1,23 @@
+# ASCII biçimi de gerçek olan kökler (elle seçildi).
+# Bu köklerden ünlü uyumuna uygun ASCII ek alan kelimeler (donuyor, kusuyor, yasta)
+# derlemde seyrek görünse de gerçek kelimedir; harfli biçime (dönüyor, kuşu, yaşta) otomatik
+# çevrilmez, yalnız "belirsiz" diye işaretlenir. Satır başına bir kök; # ile yorum.
+don
+kus
+as
+sis
+yas
+kar
+sinir
+asil
+kir
+bas
+sik
+yasa
+acil
+katil
+kurs
+sur
+ser
+oy
+sac

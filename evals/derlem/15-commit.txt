@@ -1,0 +1,3 @@
+Kullanıcı girişindeki oturum süresi hatası düzeltildi
+
+Oturum süresi dolduğunda kullanıcı ana sayfaya yönlendirilmiyordu. Artık süre dolunca kısa bir uyarı gösteriliyor ve giriş ekranı açılıyor. Eski çerezler de temizleniyor.

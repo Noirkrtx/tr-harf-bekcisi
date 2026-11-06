@@ -1,0 +1,6 @@
+- id: tr-harf-bekcisi
+  name: Türkçe harf bekçisi
+  description: Bozulmuş Türkçe harfleri (ASCII'leşme, mojibake) bulur
+  entry: scripts/tr_harf.py kontrol
+  language: script
+  types: [text]

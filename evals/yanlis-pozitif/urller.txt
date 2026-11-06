@@ -1,0 +1,6 @@
+https://example.com/turkce/dogru-yazim-kurallari
+https://github.com/ornek/kullanici-girisi/blob/main/README.md
+www.ornek-site.com.tr/urunler/cok-satanlar?siralama=fiyat
+ftp://dosya.ornek.org/arsiv/eski_surum.zip
+/var/www/proje/sablonlar/giris_sayfasi.html
+C:\Users\Public\Belgeler\rapor_2024.docx

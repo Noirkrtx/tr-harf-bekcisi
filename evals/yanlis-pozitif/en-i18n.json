@@ -1,0 +1,5 @@
+{
+  "login": {"title": "Sign in to your account", "forgot": "Forgot your password?"},
+  "cart": {"empty": "Your cart is empty.", "checkout": "Proceed to checkout"},
+  "kullanici_profili": {"baslik": "Profile", "kaydet": "Save"}
+}

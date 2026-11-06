@@ -1,0 +1,8 @@
+# Hermes skill kurulumunda taranmaz ve sayılmaz: ölçüm verisi ve repo yardımcıları
+evals/
+.claude-plugin/
+hooks/
+entegrasyon/github-actions/
+.pre-commit-hooks.yaml
+.gitignore
+README.md

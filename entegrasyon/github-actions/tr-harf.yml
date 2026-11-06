@@ -1,0 +1,8 @@
+name: Türkçe harf denetimi
+on: [push, pull_request]
+jobs:
+  tr-harf:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: git clone --depth 1 https://github.com/Noirkrtx/tr-harf-bekcisi /tmp/trhb && python3 /tmp/trhb/scripts/tr_harf.py kontrol .

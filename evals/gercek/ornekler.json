@@ -1,0 +1,58 @@
+[
+  {
+    "kaynak": "https://github.com/anthropics/claude-code/issues/13939",
+    "alinti": "issue gövdesindeki gerçek oturum örneği (önce ve sonra metni aynen)",
+    "dosya": "ornek.ts",
+    "bozuk": "const durum = 'PWA (Progressive Web App) ozellikleri kapsamli sekilde gelistirildi'\n",
+    "dogru": "const durum = 'PWA (Progressive Web App) özellikleri kapsamlı şekilde geliştirildi'\n"
+  },
+  {
+    "kaynak": "https://github.com/anthropics/claude-code/issues/13939",
+    "alinti": "issue gövdesindeki yeniden üretme örneği (sonuç satırı aynen; 'sguoci' sözcük değil, harf dizisi)",
+    "dosya": "test.ts",
+    "bozuk": "const message = 'Merhaba dunya! Turkce karakterler: sguoci'\n",
+    "dogru": "const message = 'Merhaba dünya! Türkçe karakterler: şğüöçı'\n"
+  },
+  {
+    "kaynak": "https://github.com/anthropics/claude-code/issues/6246",
+    "alinti": "issue tablosu: hook'a giden metin (aynen)",
+    "dosya": "kayit.txt",
+    "bozuk": "TÃ¼rkÃ§e\nAÄŸustos\n",
+    "dogru": "Türkçe\nAğustos\n"
+  },
+  {
+    "kaynak": "https://github.com/anthropics/claude-code/issues/6246",
+    "alinti": "issue tablosu: JSON kaçışlı biçim (aynen: T\\u00c3\\u00bcrk\\u00c3\\u00a7e)",
+    "dosya": "kayit.json",
+    "bozuk": "{\"prompt\": \"T\\u00c3\\u00bcrk\\u00c3\\u00a7e\"}\n",
+    "dogru": null
+  },
+  {
+    "kaynak": "https://github.com/openai/codex/issues/13755",
+    "alinti": "issue örnek dosyası 'Hızlı Geçiş Sistemi'; PowerShell 5.1 çıktısındaki biçimi (Ä°, ÅŸ, Ã§) biz ürettik",
+    "dosya": "example.tsx",
+    "bozuk": "const label = \"HÄ±zlÄ± GeÃ§iÅŸ Sistemi\";\n",
+    "dogru": "const label = \"Hızlı Geçiş Sistemi\";\n"
+  },
+  {
+    "kaynak": "https://github.com/openai/codex/issues/29085",
+    "alinti": "issue yeniden üretme satırı 'Hızlı Geçiş Sistemi — doğru çğışöü' (cp1252 okuması biz ürettik)",
+    "dosya": "notlar.md",
+    "bozuk": "HÄ±zlÄ± GeÃ§iÅŸ Sistemi â€” doÄŸru Ã§ÄŸÄ±ÅŸÃ¶Ã¼\n",
+    "dogru": "Hızlı Geçiş Sistemi \u2014 doğru çğışöü\n"
+  },
+  {
+    "kaynak": "https://github.com/openai/codex/issues/4131",
+    "alinti": "issue örnek dosyası response.md (cümle aynen; ekran görüntüsündeki bozulma okunamadı, cp857 konsol biçimini biz ürettik)",
+    "dosya": "response.md",
+    "bozuk": "Bu proje, gelen response'un geldi─şini nas─▒l anl─▒yor ve response'u nas─▒l al─▒yor?\n",
+    "dogru": "Bu proje, gelen response'un geldiğini nasıl anlıyor ve response'u nasıl alıyor?\n"
+  },
+  {
+    "kaynak": "https://github.com/NousResearch/hermes-agent/issues/149025",
+    "alinti": "issue: oturum başlığı (aynen)",
+    "dosya": "baslik.txt",
+    "bozuk": "ArkadaμƒΔ±ΕŸ selamlaşma\n",
+    "dogru": "Arkadaş selamlaşma\n"
+  }
+]

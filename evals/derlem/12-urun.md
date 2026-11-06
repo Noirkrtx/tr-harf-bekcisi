@@ -1,0 +1,1 @@
+Bu sırt çantası, günlük kullanım ve kısa yolculuklar için tasarlandı. Su geçirmez kumaşı ani yağmurlarda eşyalarınızı korur. İç bölmede on beş inçlik dizüstü bilgisayar için yastıklı bir cep var. Omuz askıları ayarlanabilir ve uzun yürüyüşlerde bile sırtınızı yormaz.

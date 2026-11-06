@@ -1,0 +1,1 @@
+Sabah erkenden çarşıya indik. Dar sokaklarda simitçiler ve çaycılar çoktan tezgah açmıştı. Öğleye doğru tepedeki kaleye çıktık; manzara yorgunluğumuza değdi. Akşam yemeğinde balık yedik, dönüş yolunda da küçük bir pastaneden şöbiyet aldık.

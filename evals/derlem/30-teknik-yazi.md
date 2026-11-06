@@ -1,0 +1,1 @@
+Türkçe metinlerde büyük ve küçük harf dönüşümü, İngilizceden farklı kurallar izler. Küçük "i" harfinin büyüğü "İ", noktasız "ı" harfinin büyüğü ise "I" olur. Bu fark gözden kaçarsa arama işlevleri doğru sonuç vermez; "ışık" araması "IŞIK" yazılmış başlığı bulamayabilir.

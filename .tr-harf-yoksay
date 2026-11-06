@@ -1,0 +1,11 @@
+# tr-harf-bekcisi kendi deposunu tararken: bozuk örnekleri bilerek içeren dosyalar
+yol: evals/gercek
+yol: evals/sonuclar
+yol: evals/olc.py
+yol: README.md
+# kaynak kodu bozuk örnekleri bilerek içeriyor
+yol: scripts/tr_harf.py
+yol: sozluk/uret.py
+yol: sozluk/ek_uyumu.py
+yol: evals/hook_dene.py
+yol: SKILL.md

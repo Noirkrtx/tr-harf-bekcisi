@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.DS_Store
+# sozluk/uret.py --yerel ile indirilen ham kaynaklar
+kaynak-veri/
+tr_full.txt
+en_50k.txt
+*.dict

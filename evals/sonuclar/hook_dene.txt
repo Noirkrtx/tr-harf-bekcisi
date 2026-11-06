@@ -1,0 +1,36 @@
+== Claude Code: PostToolUse, Write (bozuk dosya)
+çıkış kodu: 2
+tr-harf-bekcisi: yazdığın dosyada bozuk Türkçe harf var.
+NOTLAR.md:3:4: HARFSIZ arac -> araç  [Türkçe harfleri düşmüş]
+NOTLAR.md:3:10: HARFSIZ kullanici -> kullanıcı  [Türkçe harfleri düşmüş]
+NOTLAR.md:3:20: HARFSIZ girisini -> girişini  [Türkçe harfleri düşmüş]
+NOTLAR.md:3:29: HARFSIZ dogrular -> doğrular  [Türkçe harfleri düşmüş]
+NOTLAR.md:3:46: HARFSIZ mesajini -> mesajını  [Türkçe harfleri düşmüş]
+NOTLAR.md:3:55: HARFSIZ gosterir -> gösterir  [Türkçe harfleri düşmüş]
+NOTLAR.md:4:2: MOJIBAKE Ã¼ -> ü  [UTF-8 metin cp1252/cp1254/latin-1 olarak okunmuş]
+NOTLAR.md:4:6: MOJIBAKE Ã§ -> ç  [UTF-8 metin cp1252/cp1254/latin-1 olarak okunmuş]
+NOTLAR.md:4:25: HARFSIZ bozulmus -> bozulmuş  [Türkçe harfleri düşmüş]
+Kesin olanları (-> ile gösterilen) düzelt; 'elle bakın' yazanlarda bağlama göre karar ver. Toplu onarım için: python3 ~/.claude/skills/tr-harf-bekcisi/scripts/tr_harf.py onar <dosya> --yaz
+(Turkish characters were lost or garbled in the file you wrote. Fix them using the suggestions above.)
+
+== Claude Code: PostToolUse, Edit (temiz dosya)
+çıkış kodu: 0 | stderr: ''
+
+== Codex: PostToolUse, apply_patch (göreli yol)
+çıkış kodu: 2
+tr-harf-bekcisi: yazdığın dosyada bozuk Türkçe harf var. ... (12 satır)
+
+== Hermes: transform_tool_result, write_file
+araç sonucu artık şu: {"bytes_written": 109, "tr_harf_bekcisi": "tr-harf-bekcisi: yazdığın dosyada bozuk Türkçe harf var.\nNOTLAR.md:3:4: HARFSIZ arac -> araç  [Türkçe harfleri düşmü ...
+
+== Claude Code: hook --onar (kesin onarımları dosyaya yazar)
+çıkış kodu: 2
+tr-harf-bekcisi: yazdığın dosyada bozuk Türkçe harf var.
+NOTLAR.md: 9 harf onarıldı (dosyayı yeniden oku)
+
+dosyanın yeni hali:
+# Kurulum
+
+Bu araç, kullanıcı girişini doğrular ve hata mesajını gösterir.
+Türkçe karakterler de bozulmuş.
+

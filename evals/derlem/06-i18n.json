@@ -1,0 +1,12 @@
+{
+  "giris": {
+    "baslik": "Hesabınıza giriş yapın",
+    "sifre_unuttum": "Şifrenizi mi unuttunuz?",
+    "hata": "Kullanıcı adı ya da şifre yanlış."
+  },
+  "sepet": {
+    "bos": "Sepetiniz şu an boş.",
+    "odeme": "Ödemeye geç",
+    "kargo": "Kargo ücreti sipariş özetinde gösterilir."
+  }
+}

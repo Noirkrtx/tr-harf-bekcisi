@@ -1,0 +1,21 @@
+{
+  "name": "tr-harf-bekcisi",
+  "version": "0.1.0",
+  "description": "Ajanın yazdığı dosyada bozulan Türkçe harfleri (ASCII'leşme ve mojibake) bulur, güvenli olanları onarır. Write/Edit sonrası otomatik denetim.",
+  "author": {
+    "name": "NOIR (@noirkrtx)",
+    "url": "https://x.com/noirkrtx"
+  },
+  "homepage": "https://github.com/Noirkrtx/tr-harf-bekcisi",
+  "repository": "https://github.com/Noirkrtx/tr-harf-bekcisi",
+  "license": "MIT",
+  "keywords": [
+    "turkish",
+    "türkçe",
+    "mojibake",
+    "diacritics",
+    "encoding",
+    "hook"
+  ],
+  "skills": "."
+}

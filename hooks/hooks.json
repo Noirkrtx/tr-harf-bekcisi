@@ -1,0 +1,17 @@
+{
+  "hooks": {
+    "PostToolUse": [
+      {
+        "matcher": "Write|Edit|MultiEdit",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python3 \"${CLAUDE_PLUGIN_ROOT}/scripts/tr_harf.py\" hook",
+            "timeout": 30,
+            "statusMessage": "Türkçe harfler denetleniyor"
+          }
+        ]
+      }
+    ]
+  }
+}

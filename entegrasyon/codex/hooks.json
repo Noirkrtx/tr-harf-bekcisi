@@ -1,0 +1,18 @@
+{
+  "description": "tr-harf-bekcisi: apply_patch sonrası Türkçe harf denetimi",
+  "hooks": {
+    "PostToolUse": [
+      {
+        "matcher": "apply_patch|Edit|Write",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python3 ~/.agents/skills/tr-harf-bekcisi/scripts/tr_harf.py hook",
+            "timeout": 30,
+            "statusMessage": "Türkçe harfler denetleniyor"
+          }
+        ]
+      }
+    ]
+  }
+}

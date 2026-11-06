@@ -1,0 +1,8 @@
+# Uygulama ayarları
+uygulama:
+  ad: Kütüphane Takip
+  aciklama: "Okul kütüphanesindeki kitapların ödünç durumunu izler."
+  dil: tr
+bildirim:
+  gecikme_mesaji: "Kitabın iade tarihi geçti, lütfen en kısa sürede teslim edin."
+  hatirlatma_gunu: 3

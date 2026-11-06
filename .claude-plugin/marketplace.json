@@ -1,0 +1,14 @@
+{
+  "name": "noirkrtx",
+  "description": "NOIR (@noirkrtx) eklentileri",
+  "owner": {
+    "name": "NOIR (@noirkrtx)"
+  },
+  "plugins": [
+    {
+      "name": "tr-harf-bekcisi",
+      "source": "./",
+      "description": "Bozulan Türkçe harfleri bulur ve güvenli olanları onarır."
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+Önbellek katmanı, sık okunan kayıtları bellekte tutarak veritabanı yükünü azaltıyor. Bir kayıt güncellendiğinde ilgili anahtar hemen siliniyor; böylece eski veri gösterilmiyor. Ölçümlerimize göre ortalama yanıt süresi yüzde kırk düştü. Ancak bellek kullanımı arttı, bu yüzden üst sınırı ayarlanabilir bıraktık.
